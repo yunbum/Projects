@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "859837463692",
+    "firebase_url": "https://gyrotcpsocket.firebaseio.com",
+    "project_id": "gyrotcpsocket",
+    "storage_bucket": "gyrotcpsocket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859837463692:android:a0f69299d66018c6",
+        "android_client_info": {
+          "package_name": "com.example.ybbaek.gyrotcpsocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859837463692-4e03bop0lupi8krjml7jgquso6ot2d7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ybbaek.gyrotcpsocket",
+            "certificate_hash": "ea02714d6df47407aa6d461fa0b2f955adb6daf6"
+          }
+        },
+        {
+          "client_id": "859837463692-f1tb0jbc6vcrr9k5m8u8v9egp8888r12.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "859837463692-f1tb0jbc6vcrr9k5m8u8v9egp8888r12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsUHkXmlqK7ib04AY61Sk4uTfqJdDaNuw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859837463692-f1tb0jbc6vcrr9k5m8u8v9egp8888r12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
