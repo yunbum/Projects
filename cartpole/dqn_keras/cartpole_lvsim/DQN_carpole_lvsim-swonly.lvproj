@@ -22,7 +22,6 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="ctr" Type="Folder">
 			<Item Name="ctr-ref.ctl" Type="VI" URL="../ctl/ctr-ref.ctl"/>
-			<Item Name="state.ctl" Type="VI" URL="../../../RL_Ballbalance/LV_Ball_ballance/vi/state.ctl"/>
 		</Item>
 		<Item Name="vi" Type="Folder">
 			<Item Name="Draw Linear Inverted Pendulum_sim.vi" Type="VI" URL="../vis/Draw Linear Inverted Pendulum_sim.vi"/>
@@ -53,6 +52,8 @@
 			<Item Name="sub_logdata.vi" Type="VI" URL="../vis/sub_logdata.vi"/>
 			<Item Name="sub_logpath.vi" Type="VI" URL="../vis/sub_logpath.vi"/>
 			<Item Name="test_fpga_motor_dir.vi" Type="VI" URL="../vis/test_fpga_motor_dir.vi"/>
+			<Item Name="Pendulum Sequence.vi" Type="VI" URL="../Pendulum Sequence.vi"/>
+			<Item Name="Pendulum Manual.vi" Type="VI" URL="../Pendulum Manual.vi"/>
 		</Item>
 		<Item Name="Pendulum_PC.vi" Type="VI" URL="../Pendulum_PC.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -170,6 +171,7 @@
 			<Item Name="sub_system_status.vi" Type="VI" URL="../vis/sub_system_status.vi"/>
 			<Item Name="Target.ctl" Type="VI" URL="../Model/Target.ctl"/>
 			<Item Name="state-machine.ctl" Type="VI" URL="../ctl/state-machine.ctl"/>
+			<Item Name="Generate Position Setpoints.vi" Type="VI" URL="../Model/Generate Position Setpoints.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
