@@ -9,4 +9,4 @@ RL alogorism with real cartpole demo
 # Block Diagram
 ![slide1](./image/cartpole_s1.JPG )
 
-![slide2](./image/cartpole_s2.jpg )
+![slide2](./image/cartpole_s2.JPG )
