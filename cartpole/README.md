@@ -6,7 +6,7 @@ RL alogorism with real cartpole demo
 
 ![lvimage](./image/cartpole_lv2d.jpg )
 
-# Block Diagream
-![slide1](./image/cartpole_block1.jpg )
+# Block Diagram
+![slide1](./image/cartpole_s1.jpg )
 
-![slide2](./image/cartpole_block2.jpg )
+![slide2](./image/cartpole_s2.jpg )
